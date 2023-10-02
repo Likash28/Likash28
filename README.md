@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gunisettilikash@gmail.com**
 
-- 📄 Know about my experiences [CS Research Intern at AU, Ex-CS Research Intern at Qodeit](CS Research Intern at AU, Ex-CS Research Intern at Qodeit)
+- 📄 Know about my experiences [CS Research Intern at AU, Ex-CS Research Intern at Qodeit]
 
 - ⚡ Fun fact **Nothing**
 
