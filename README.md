@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [CS Research Intern at AU, Ex-CS Research Intern at Qodeit]
 
-- ⚡ Fun fact **Nothing**
+- ⚡ Fun fact **There is no secret pill**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
