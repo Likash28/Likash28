@@ -17,9 +17,9 @@
 
 - 📫 Stalk me at **https://likashgunisetti.netlify.app/**
 
-- 📄 Know about my experiences [CS Research Intern at AU, Ex-CS Research Intern at Qodeit]
+- 📄 Know about my experiences [SDE-INTERN at DKG LABS, Ex-CS Research Intern at AU, Ex-CS, Research Intern at Qodeit]
 
-- ⚡ Fun fact **I am a PetrolHead**
+- ⚡ Intresting Fun fact about me **I am a PetrolHead**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
