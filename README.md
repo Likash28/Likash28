@@ -23,12 +23,12 @@
 
 
 ![GENERAL PROFICIENCY](http://img.shields.io/badge/-General%20Proficiency-grey?style=flat-square)
-![C++](http://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Python](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=3075C0)  
 ![BACKEND](http://img.shields.io/badge/-Backend-grey?style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)
 ![BaaS/CMS](http://img.shields.io/badge/-BaaS/CMS-grey?style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase&logoColor=39D190)  
