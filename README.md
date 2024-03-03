@@ -38,7 +38,7 @@
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=githubactions&logoColor=FFFFFF)  
 ![DATA STORAGE](http://img.shields.io/badge/-Data%20Storage-grey?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=DC382D)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka&logoColor=FFFFFF)  
 ![FRONTEND](http://img.shields.io/badge/-Frontend-grey?style=flat-square)
