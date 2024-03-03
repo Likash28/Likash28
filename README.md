@@ -33,7 +33,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase&logoColor=39D190)  
 ![DEVOPS](http://img.shields.io/badge/-DevOps-grey?style=flat-square)
-![nginx](https://img.shields.io/badge/-nginx-black?style=flat-square&logo=nginx&logoColor=009639)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=316CE6)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=githubactions&logoColor=FFFFFF)  
