@@ -48,13 +48,11 @@
 ![STYLING](http://img.shields.io/badge/-Styling-grey?style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=CC6699)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Chakra-UI](https://img.shields.io/badge/-Chakra%20UI-black?style=flat-square&logo=chakraui&logoColor=46C7C1)  
 ![TOOLS](http://img.shields.io/badge/-Tools-grey?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)
 
 <hr/>
 
