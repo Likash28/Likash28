@@ -57,9 +57,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api?username=apoorvdwi&show_icons=true&theme=github_dark" alt="apoorvdwi" />&nbsp;
-  <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api/top-langs/?username=apoorvdwi&layout=compact&show_icons=true&theme=github_dark&hide=jupyter%20notebook,html,c,scss,css" alt="apoorvdwi" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=apoorvdwi&theme=github_dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-apoorvdwi" />
+  <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api?username=apoorvdwi&show_icons=true&theme=github_dark" alt="Likash Gunisetti" />&nbsp;
+  <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api/top-langs/?username=apoorvdwi&layout=compact&show_icons=true&theme=github_dark&hide=jupyter%20notebook,html,c,scss,css" alt="Likash Gunisetti" />
+  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=apoorvdwi&theme=github_dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Likash" />
 </div>
 
 <hr/>
