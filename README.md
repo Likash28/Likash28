@@ -69,5 +69,4 @@
 <p align="center">
 <a href="https://likashgunisetti.netlify.app/"><img src="https://img.shields.io/badge/-likashgunisetti.netlify.app-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/likash-gunisetti"><img src="https://img.shields.io/badge/-Likash%20Gunisetti-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://mailhide.io/e/llPVII9q"><img src="https://img.shields.io/badge/-reveal-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
