@@ -40,7 +40,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka&logoColor=FFFFFF)  
 ![FRONTEND](http://img.shields.io/badge/-Frontend-grey?style=flat-square)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=E34F26)
