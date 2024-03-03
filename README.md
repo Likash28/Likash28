@@ -51,7 +51,6 @@
 ![TOOLS](http://img.shields.io/badge/-Tools-grey?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 <hr/>
