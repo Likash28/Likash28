@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-👨‍💻 &nbsp; Ex-Data Science Intern at [DKG Labs](https://www.dkgrouplabs.com/), [Qodeit](https://www.qodeit.com/),and building scalable systems using Golang and GRPC.\
+👨‍💻 &nbsp; Ex-Data Science Intern at [DKG Labs](https://www.dkgrouplabs.com/), Ex-CS Research Intern at [Qodeit](https://www.qodeit.com/).
 🎓 &nbsp; Bachelor of Technology in Computer Science from GMRIT 2024.\
 🌱 &nbsp; Learning about Systems Design, and Microservice Architecture.\
 💬 &nbsp; Feel free to reach out to me for some interesting discussion related to technology.\
