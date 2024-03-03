@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 👨‍💻 &nbsp;Software Engineer at [Skyflow](https://skyflow.com), and building scalable systems using Golang and GRPC.\
-🎓 &nbsp;Bachelors of Technology in Computer Science from GMRIT 2024.\
-🌱 &nbsp;Learning about Systems Design, and Microservice Architecture.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion related to Techonology.\
+🎓 &nbsp; Bachelor of Technology in Computer Science from GMRIT 2024.\
+🌱 &nbsp; Learning about Systems Design, and Microservice Architecture.\
+💬 &nbsp; Feel free to reach out to me for some interesting discussion related to technology.\
 ✉️ &nbsp;You can shoot me an <a href="https://mailhide.io/e/llPVII9q">email</a>. I'll try to respond as soon as I can!
 
 ---
