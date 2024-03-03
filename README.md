@@ -68,7 +68,7 @@
 
 <p align="center">
 <a href="https://apoorvdwivedi.in"><img src="https://img.shields.io/badge/-apoorvdwivedi.in-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvdwi"><img src="https://img.shields.io/badge/-Apoorv%20Dwivedi-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/likash-gunisetti"><img src="https://img.shields.io/badge/-Apoorv%20Dwivedi-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://mailhide.io/e/llPVII9q"><img src="https://img.shields.io/badge/-reveal-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/apoorvdwi" target="_blank"><img src="https://img.shields.io/badge/-apoorvdwi-00acee?logo=twitter&style=for-the-badge&logoColor=white" alt="twitter-apoorvdwi" /></a>&nbsp;
 </p>
