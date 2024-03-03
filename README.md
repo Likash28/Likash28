@@ -7,7 +7,7 @@
 🎓 &nbsp; Bachelor of Technology in Computer Science from GMRIT 2024.\
 🌱 &nbsp; Learning about Systems Design, and Microservice Architecture.\
 💬 &nbsp; Feel free to reach out to me for some interesting discussion related to technology.\
-✉️ &nbsp;You can shoot me an <a href="https://mailhide.io/e/llPVII9q">email</a>. I'll try to respond as soon as I can!
+✉️ &nbsp;You can shoot me an <a href="https://mailhide.io/e/llPVII9q">Email</a>. I'll try to respond as soon as I can!
 
 ---
 
