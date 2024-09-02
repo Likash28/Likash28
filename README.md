@@ -5,6 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+I Like to Talk Tech 
+
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 👨‍💻 &nbsp; Ex-Data Science Intern at [DKG Labs](https://www.dkgrouplabs.com/), Ex-CS Research Intern at [Qodeit](https://www.qodeit.com/).\
 🎓 &nbsp; Bachelor of Technology in Computer Science from GMRIT 2024.\
