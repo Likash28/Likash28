@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://likashgunisetti.netlify.app/)
 
 
 ## <h1 align="center">Hola 👋, I'm [Likash Gunisetti](https://likashgunisetti.netlify.app/)</h1> 
@@ -64,18 +64,16 @@ I Like to Talk Tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/likash-gunisetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likash-gunisetti" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/likash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likash" height="30" width="40" /></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 
 <div align="center">
-  <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api?username=Likash28&show_icons=true&theme=github_dark" alt="Likash Gunisetti" />&nbsp;
-  <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api/top-langs/?username=Likash28&layout=compact&show_icons=true&theme=github_dark&hide=jupyter%20notebook,html,c,scss,css" alt="Likash Gunisetti" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=Likash28&theme=github_dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Likash" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Likash28&show_icons=true&theme=github_dark" alt="Likash Gunisetti" />&nbsp;
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likash28&layout=compact&show_icons=true&theme=github_dark&hide=jupyter%20notebook,html,c,scss,css" alt="Likash Gunisetti" />
+  <img height="180px" src="https://streak-stats.demolab.com?user=Likash28&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Likash" />
 </div>
 
 <hr/>
