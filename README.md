@@ -8,9 +8,10 @@
 I Like to Talk Tech 
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🔭 &nbsp; Currently building AI tools at [GreenBridge.ai](https://greenbridge.ai).\
 👨‍💻 &nbsp; Ex-Data Science Intern at [DKG Labs](https://www.dkgrouplabs.com/), Ex-CS Research Intern at [Qodeit](https://www.qodeit.com/).\
 🎓 &nbsp; Bachelor of Technology in Computer Science from GMRIT 2024.\
-🌱 &nbsp; Learning about Systems Design, and Microservice Architecture.\
+🌱 &nbsp; Exploring GenAI, RAG pipelines, and Agentic systems.\
 💬 &nbsp; Feel free to reach out to me for some interesting discussion related to technology.\
 ✉️ &nbsp;You can shoot me an <a href="https://mailhide.io/e/llPVII9q">Email</a>. I'll try to respond as soon as I can!
 
@@ -78,6 +79,29 @@ I Like to Talk Tech
 Workspaces, 4-stage task pipelines (Dev → Unit Test → SIT → UAT), @mention email alerts, Google OAuth, role-based access, and profile image uploads.
 
 `MongoDB` `Express` `React 19` `Node.js` `Tailwind CSS` `JWT` `Passport.js`
+
+<hr/>
+
+### 🤖 &nbsp;AI & GenAI Projects
+
+<a href="https://github.com/Likash28/RAG-Using-OpenAI-LLM" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-RAG--OpenAI-001E2B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Likash28/OpenHealth" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-OpenHealth-001E2B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Likash28/Multilingual-Speech-Recognition" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Multilingual--ASR-001E2B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**RAG-Using-OpenAI-LLM** — Retrieval-Augmented Generation pipeline using OpenAI and vector search.\
+**OpenHealth** — LLM-powered disease prediction and health analysis.\
+**Multilingual-Speech-Recognition** — Real-time multilingual speech transcription in the browser.\
+**MEDI-Diagnose** — Medical diagnosis using ML models and Jupyter notebooks.
+
+`Python` `OpenAI` `LangChain` `RAG` `JavaScript` `Health AI` `NLP`
 
 <hr/>
 
